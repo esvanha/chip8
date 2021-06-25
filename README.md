@@ -1,5 +1,5 @@
 # CHIP-8 Emulator
-This is a CHIP-8 emulator written in C. It is currently only tested on Linux.
+This is a CHIP-8 emulator written in C. It has currently only been tested on Linux.
 
 Opcodes and other information were taken from
 [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM). 
@@ -31,10 +31,13 @@ Which translate to the following values:
 
 ## Screenshots
 ![Pong](screenshots/pong.png)
+*Pong*
 
 ![Sierpiński triangle](screenshots/sierpinski.png)
+*Sierpiński triangle*
 
 ![Space Invaders](screenshots/space_invaders.png)
+*Space Invaders*
 
 ## Building
 Make sure you have SDL2 installed.
